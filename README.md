@@ -20,7 +20,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] List anything else that you added to improve the site's functionality!
+* [x] Deployed the site 
+project2-five-rho.vercel.app
 
 ## Video Walkthrough
 
